@@ -5,6 +5,8 @@ description: Problem set on the star planet radii, equations of state, and plane
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/54f429c80ff58b39458ffec375f877f9_homework3.pdf
 file_size: 86919
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

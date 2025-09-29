@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section gives the summaries of lecture sessions, written by a student.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Class Activities

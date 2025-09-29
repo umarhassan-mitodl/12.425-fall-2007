@@ -5,6 +5,8 @@ description: Problem set on planet albedos and related questions, black body rad
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/d5da6a63493304702109418ec3a520a9_homework4.pdf
 file_size: 72105
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This section contains the assigned problem sets for the course, whi
   include exercises related to using real data on exoplanets to derive their physical
   properties such as mass, radius, density, temperature or composition. This section
   also includes data sets for the first problem set.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

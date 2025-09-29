@@ -38,6 +38,7 @@
     "website": "12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007"
   },
   "course_title": "Extrasolar Planets: Physics and Detection Techniques",
+  "hide_download": true,
   "course_description": "This course covers the basic principles of planet atmospheres and interiors applied to the study of extrasolar planets (exoplanets). We focus on fundamental physical processes related to observable exoplanet properties. We also provide a quantitative overview of detection techniques and an introduction to the feasibility of the search for Earth-like planets, biosignatures and habitable conditions on exoplanets.\n",
   "department_numbers": [
     "12"
@@ -48,6 +49,7 @@
     "content": "cc1300be-465b-f990-85b9-aeced12e392d",
     "website": "12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

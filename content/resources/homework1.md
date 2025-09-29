@@ -8,6 +8,8 @@ description: Problem set on the time taken by a spacecraft to get to the nearest
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/391b3fa5594bb6b6d31d6a0f7ec8e6af_homework1.pdf
 file_size: 166650
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

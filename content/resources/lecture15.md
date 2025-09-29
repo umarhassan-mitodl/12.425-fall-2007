@@ -8,6 +8,8 @@ description: Lecture summary, written by a student. The focus of this lecture is
 file: /courses/12-425-extrasolar-planets-physics-and-detection-techniques-fall-2007/c15da53f6cee56b461ff459f38e0a4da_lecture15.pdf
 file_size: 13010
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
